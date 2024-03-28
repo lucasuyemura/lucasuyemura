@@ -17,4 +17,6 @@
 
 ##
 
-api/pin?username=lucasuyemura&repo=github-readme-stats
+<div>
+  api/pin?username=lucasuyemura&repo=github-readme-stats
+<\div>
