@@ -14,3 +14,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lucasuyemura&show_icons=true" />
 </picture>
+
+##
+
+api/pin?username=lucasuyemura&repo=github-readme-stats
