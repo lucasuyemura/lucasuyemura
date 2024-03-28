@@ -17,6 +17,10 @@
 
 ##
 
-<div>
-  api/pin?username=lucasuyemura&repo=github-readme-stats
-<\div>
+<a href="https://github.com/lucasuyemura/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasuyemura" />
+</a>
+<a href="https://github.com/lucasuyemura/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasuyemura&layout=compact&langs_count=8&card_width=320" />
+</a>
+
