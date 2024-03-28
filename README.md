@@ -9,9 +9,19 @@
   <img align="center" alt="Lucas-BigQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Lucas-Codespace" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg">
   <img align="center" alt="Lucas-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
-  
-  
+   
 </div>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucasuyemura&show_icons=true&theme=tokyonigth"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucasuyemura&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasuyemura&show_icons=true" />
+</picture>
 
 
