@@ -12,9 +12,11 @@
    
 </div>
 
+##
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lucasuyemura&show_icons=true&theme=tokyonigth"
+    srcset="https://github-readme-stats.vercel.app/api?username=lucasuyemura&show_icons=true&theme=highcontrast"
     media="(prefers-color-scheme: dark)"
   />
   <source
