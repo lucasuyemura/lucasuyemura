@@ -1,7 +1,7 @@
   ## Olá, sou Lucas Oliveira Uyemura
   - <b> Estudante na área de Tecnologia 🌎
   - <b> Apaixonado por análise de dados 🎲
-  - <b> Vontade de aprender
+  - <b> Vontade de aprender 💻
 
 
 
