@@ -1,7 +1,9 @@
-- 👋 Olá, sou Lucas Oliveira Uyemura
-- 👀 Análise de dados
-- 🌱 Estudante na área de tecnologia
-- 💞️ Trabalho na área de Bussiness Intelligence
+  ## Olá, sou Lucas Oliveira Uyemura
+  - <b> Estudante na área de Tecnologia 🌎
+  - <b> Apaixonado por análise de dados 🎲
+  - <b> Vontade de aprender
+
+
 
 
 <picture>
